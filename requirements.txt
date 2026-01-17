@@ -1,0 +1,20 @@
+# Web Frameworks
+fastapi
+uvicorn
+
+# UI & Frontend
+streamlit
+streamlit_searchbox
+st_copy_to_clipboard
+
+# Communication & API
+requests
+python-dotenv
+google-generativeai
+google-ai-generativelanguage
+groq
+
+# Data & Utilities
+pandas
+numpy
+urllib3
