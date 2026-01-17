@@ -7,7 +7,7 @@ from datetime import datetime
 from st_copy_to_clipboard import st_copy_to_clipboard
 import urllib.parse
 
-st.set_page_config(page_title="أروح إزاي؟ تطبيق مواصلات مصر-دليلك للوصول لأي مكان في القاهرة", page_icon="🚌", layout="wide")
+st.set_page_config(page_title= "أروح إزاي؟ تطبيق مواصلات مصر-دليلك للوصول لأي مكان في القاهرة", page_icon="🚌", layout="wide")
 
 # Get API keys from Streamlit secrets
 GOOGLE_API_KEY = st.secrets.get("GOOGLE_API_KEY", "")
@@ -467,4 +467,5 @@ st.markdown(
     """, 
     unsafe_allow_html=True
 )
+
 
