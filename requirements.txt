@@ -1,20 +1,5 @@
-# Web Frameworks
-fastapi
-uvicorn
-
-# UI & Frontend
-streamlit
-streamlit_searchbox
-st_copy_to_clipboard
-
-# Communication & API
-requests
-python-dotenv
-google-generativeai
-google-ai-generativelanguage
-groq
-
-# Data & Utilities
-pandas
-numpy
-urllib3
+streamlit==1.31.0
+streamlit-searchbox==0.1.13
+st-copy-to-clipboard==0.1.2
+google-generativeai==0.3.2
+groq==0.4.1
