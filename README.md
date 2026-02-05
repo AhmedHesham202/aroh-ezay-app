@@ -33,7 +33,7 @@ pip install -r requirements.txt
 GOOGLE_API_KEY = "YOUR_GEMINI_API_KEY"
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
 
-4.** Launch the app**
+4.**Launch the app:**
 streamlit run app.py
 
 **Developed with ❤️ to help Egyptians navigate the city.**
