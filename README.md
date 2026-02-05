@@ -23,17 +23,22 @@ Navigation in Cairo can be complex. This application simplifies the journey by u
 - **Deployment:** Streamlit Cloud
 
 ## 📦 Local Installation
+
 1. **Clone the repository:**
+
 git clone [https://github.com/AhmedHesham202/aroh-ezay-app.git](https://github.com/AhmedHesham202/aroh-ezay-app.git)
 
 2. **Install dependencies:**
+
 pip install -r requirements.txt
 
 4. **Environment Setup: Create a .secrets.toml (for Streamlit) or a .env file and add your keys:**
+
 GOOGLE_API_KEY = "YOUR_GEMINI_API_KEY"
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
 
 4.**Launch the app:**
+
 streamlit run app.py
 
 **Developed with ❤️ to help Egyptians navigate the city.**
