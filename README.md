@@ -102,7 +102,7 @@ Deployment:     Streamlit Cloud
 
 4. **Launch the application**
    ```bash
-   streamlit run app.py
+   streamlit run standalone_app.py
    ```
 
 5. **Open your browser**
